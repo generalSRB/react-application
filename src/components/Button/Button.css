@@ -1,0 +1,33 @@
+
+button {
+    background: none;
+    border: solid 1px green;
+    color: green;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin: 5px auto;
+    background-color: rgb(142, 201, 142);
+    font-weight: bold;
+    border-radius: 3px;
+    font-size: 9px;
+    width: 105px;
+    
+}
+
+button.red {
+    border: solid 1px red;
+    background-color: rgb(212, 169, 169);
+    color: red;
+    font-weight: bold;
+    margin: 5px;
+}
+
+button.orange {
+    border: solid 1px rgb(197, 130, 5);
+    background-color: rgb(216, 192, 146);
+    color: rgb(197, 130, 5);
+    font-weight: bold;
+    margin: 5px;
+}
+
